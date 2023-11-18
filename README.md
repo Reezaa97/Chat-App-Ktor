@@ -1,8 +1,11 @@
 # Chat-App
-##server
+## Server
 
 ### Using :
 
-*  kotlin 
-*Ktor
-*socket
+*  kotlin
+*  Ktor
+*  socket
+
+
+
